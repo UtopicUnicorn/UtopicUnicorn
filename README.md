@@ -5,7 +5,7 @@
  - Degree: bachelor. GPA 4.6 out of 5.
  
 ## Work experience
- 08.2021-07.2022 - Freelance
+ 08.2021 - Present - Freelance
  
  🚀 Job posting platform (Fullstack developer)
  
