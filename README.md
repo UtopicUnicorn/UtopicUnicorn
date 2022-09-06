@@ -25,8 +25,12 @@
 - DevOps Tools: Docker;
 
 ## Additional information
-- Languages: Russian (native), English(advanced)
+- Languages: Russian (native), English(fluent)
 - Interests/hobbies: gadgets, music, video games, cinema
 
 ## 🤝 Connect with me
 [![medvedevtimofei@gmail.com](https://img.shields.io/badge/medvedevtimofei@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:medvedevtimofei@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timofeii-medvedev) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tima_medvedev)
+
+
+## 📋 CV 
+[![CV_en](https://img.shields.io/badge/EN%20-%230077B5.svg?&style=for-the-badge)](https://github.com/UtopicUnicorn/UtopicUnicorn/raw/main/Medvedev_CV_En.pdf) [![CV_ru](https://img.shields.io/badge/RU%20-%230077B5.svg?&style=for-the-badge)](https://github.com/UtopicUnicorn/UtopicUnicorn/raw/main/Medvedev_CV_Ru.pdf)
