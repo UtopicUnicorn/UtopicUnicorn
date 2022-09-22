@@ -20,7 +20,7 @@
 ## 🛠 Skills
 
 - Programming: TypeScript, JavaScript, basic knowledge of C# and Java;
-- Frontend Frameworks: Angular 12+, Expo;
+- Frontend Frameworks: Angular 12+, Expo, React;
 - Backend Frameworks: Nest.js, basic knowledge of Next.js and express;
 - DevOps Tools: Docker;
 
