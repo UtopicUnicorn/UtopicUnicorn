@@ -5,7 +5,14 @@
  - Degree: bachelor. GPA 4.6 out of 5.
  
 ## Work experience
- 08.2021 - Present - Freelance
+ 04.2023 - Present - KrasInsite ([krasinsite.ru](http://krasinsite.ru), Krasnoyarks, Russia) React Native Developer
+
+ 🚀 Development of cross platform mobile applications
+
+ 🛠 Techonogies and tools: TypeScript, JavaScript, React Native, Redux, Docker, Express
+
+ ----------
+ 08.2021 - 04.2023 - Freelance
  
  🚀 Job posting platform (Fullstack developer)
  
