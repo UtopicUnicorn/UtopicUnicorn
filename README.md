@@ -7,29 +7,41 @@
 ## Work experience
  04.2023 - Present - KrasInsite ([krasinsite.ru](http://krasinsite.ru), Krasnoyarks, Russia) React Native Developer
 
- 🚀 Development of cross platform mobile applications
+ ### Main duties:
 
- 🛠 Techonogies and tools: TypeScript, JavaScript, React Native, Redux, Docker, Express
+ - development of frontend and cross-platform applications (JS/TS, React Native, Angular, React);
+ - coordination of requirements, approval of architecture and technical solutions with customers;
+ - development of backend for mobile application (REST, websockets, https, express, ws, axios);
+ - support of existing projects (Angular, React Native);
+ - markup (HTML, CSS, SCSS);
+ - writing of unit tests (Jest).
+
+ ### Achievements:
+&nbsp;&nbsp;&nbsp;&nbsp;From scratch, I developed and released into production a mobile and backend applications. Coordinated with the   customer, approved and agreed upon the architecture and technical solutions.
+
+ Techonogies and tools: TypeScript, JavaScript, React Native, Angular, Redux, HTML, CSS, SCSS, Docker, Express
 
  ----------
  08.2021 - 04.2023 - Freelance
  
- 🚀 Job posting platform (Fullstack developer)
+ Job posting platform (Fullstack developer)
  
- 🛠 Techonogies and tools: TypeScript, Angular 13, NestJS, Docker, PostgreSQL redis, postman
+ Techonogies and tools: TypeScript, Angular 13, HTML, SCSS, NestJS, Docker, PostgreSQL redis, postman
 
 ----------
- 🚀 Car parts reseller cross-platform mobile app and backend prototype
+ Car parts reseller cross-platform mobile app and backend prototype
  
- 🛠 Technologies and tools: TypeScript, Expo, NestJS, Docker, PostgreSQL 
+ Technologies and tools: TypeScript, Expo, NestJS, Docker, PostgreSQL 
 
 
-## 🛠 Skills
+## Skills
 
 - Programming: TypeScript, JavaScript, basic knowledge of C# and Java;
-- Frontend Frameworks: Angular 12+, Expo, React;
-- Backend Frameworks: Nest.js, basic knowledge of Next.js and express;
+- Markup: HTML, CSS, SCSS;
+- Frontend: Angular 12+, Expo, React;
+- Backend: Nest.js, NodeJs, Express;
 - DevOps Tools: Docker;
+- Vesion control tools: git.
 
 ## Additional information
 - Languages: Russian (native), English(fluent)
