@@ -5,7 +5,24 @@
  - Degree: bachelor. GPA 4.6 out of 5.
  
 ## Work experience
- 04.2023 - Present - KrasInsite ([krasinsite.ru](http://krasinsite.ru), Krasnoyarks, Russia) React Native Developer
+
+ 08.2024 - present - Getwola/Smart Logistics System ([sls.express](https://sls.express/), Moscow, Russia) Frontend Developer
+
+ ### Main duties:
+ 
+ - support and development of web and mobile applications
+ - markup and UI components fixes
+ - development of new components and PWA
+ - development of application architecture
+ - code review, unit-tests, documentation in Jira and Confluence
+
+ ### Achievements:
+ &nbsp;&nbsp;&nbsp;&nbsp;Released white-label applications for iOS and Android. Increased the coverage with unit tests by 40%. Implemented a knowledgebase for new employees onboarding.
+
+ Technologies and tools: TypeScript, JavaScript, React, React Native, Expo, Next.js, Redux, Redux Toolkit Query, Vite, HTML, CSS
+
+ ----------
+ 04.2023 - 08.2024 - KrasInsite ([krasinsite.ru](http://krasinsite.ru), Krasnoyarks, Russia) Frontend Developer
 
  ### Main duties:
 
